@@ -21,6 +21,8 @@ out/
 .env.local
 .env.*.local
 
+backend/uploads/
+
 # Editor directories and files
 .vscode/
 !.vscode/extensions.json
